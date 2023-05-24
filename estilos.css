@@ -1,0 +1,49 @@
+* .container {
+  background-color: #15273f;
+border-radius: 8px;
+  max-width: 1250px;
+  width: 350px;
+  margin: 0 auto;
+}
+body {
+  background-color: #0d1a2d;
+}
+.card-foto {
+  text-align: center;
+}
+
+.imagen-principal {
+  border-radius: 8px;
+}
+
+.text-white {
+  color: white;
+}
+
+.contenedor-dos {
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 25px;
+}
+
+.text-gray {
+  color: #7c92af;
+
+}
+
+.text-eth {
+  color: #20f4ed;
+}
+
+.text-reloj {
+  color: #536c8c;
+}
+
+.contenedor-detalle {
+  justify-content: space-between;
+}
+
+
+.contenedor-autor{
+border-top-color: gray;
+}
